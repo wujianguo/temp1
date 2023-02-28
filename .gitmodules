@@ -1,0 +1,3 @@
+[submodule "iOSAppsInfo"]
+	path = iOSAppsInfo
+	url = ssh://git@github.com:22/wujianguo/iOSAppsInfo.git
